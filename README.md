@@ -19,10 +19,14 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
  - <img src="https://developer.android.com/images/home/droid.svg" alt="Android logo" width="24" height="24"> Android Developer
- - 🌱 I’m currently learning Jetpack Compose
  - 💬 Ask me about Android and Linux
 
 <!--
+# 💫 About Me:
+ - <img src="https://developer.android.com/images/home/droid.svg" alt="Android logo" width="24" height="24"> Android Developer
+ - 🌱 I’m currently learning Jetpack Compose
+ - 💬 Ask me about Android and Linux
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/v%C3%ADtor-ferreira-guimar%C3%A3es-b68101199/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/9729980/vitor-ferreira) 
 -->
